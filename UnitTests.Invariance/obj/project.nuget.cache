@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7cuOfpyZ+MM=",
+  "dgSpecHash": "gRWuShAb0NA=",
   "success": true,
-  "projectFilePath": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
+  "projectFilePath": "C:\\Source\\GITHUB-AZURE-SAMPLE\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MESN9888\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\MESN9888\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
