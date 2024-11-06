@@ -11,7 +11,7 @@ on:
 
 jobs:
 
-    scan-for-vunerable-packages:
+  scan-for-vunerable-packages:
     runs-on: windows-latest
 
     steps:
