@@ -17,6 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Check for vulnerable packages
+        run: dotnet restore
         run: |
           New-Item vulnerabilities.txt
           dotnet list package --vulnerable --include-transitive | Tee-Object vulnerabilities.txt
