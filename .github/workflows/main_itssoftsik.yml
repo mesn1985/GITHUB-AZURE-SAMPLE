@@ -17,6 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Check for vulnerable packages
+        working-directory: ./SqlInjection
         run: |
           dotnet restore
           New-Item vulnerabilities.txt
